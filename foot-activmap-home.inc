@@ -1,4 +1,4 @@
-<!-- build:js(/Volumes/Chases/noaa/) foot-activmap.combined.min.js -->
+<!-- build:js(/Volumes/Chases/noaa/) foot-activmap-home.combined.min.js -->
     <!-- FOOT - ACTIVMAP -->
     <!-- MAP -->
     <script src="/js/jquery-activmap-home.js"></script>
