@@ -61,7 +61,7 @@ gulp.task('buildComb', (done) => {
     
 /* copy inc templates (from build) to the current folder */
 gulp.task('copyInc', () => {
-    return gulp.src('../_build/*')
+    return gulp.src('../_build-no-min/*')
         .pipe(debug({title: 'template copy:'}))
         .pipe(gulp.dest('../'))
 })
