@@ -1,4 +1,4 @@
-<!-- HEAD JWP VIDEO -->
+<!--include virtual="/include1/head-video.inc" | HEAD JWP VIDEO -->
     <!-- jQuery -->
     <script src="/js/jquery.js"></script>
     <!-- JWPlayer -->

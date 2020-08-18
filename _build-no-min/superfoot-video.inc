@@ -1,4 +1,4 @@
-<!-- FOOT - VIDEO - NO MAP - NO PORTFOLIO (general - jwplayer) -->
+<!--include virtual="/include1/superfoot-video.inc" | FOOT - VIDEO - NO MAP - NO PORTFOLIO (general - jwplayer) -->
     <!-- Global Scripts -->   
     <!-- Bootstrap -->
     <script src="/js/bootstrap.js"></script>

@@ -1,4 +1,4 @@
-<!-- HEAD - PORTFOLIO - DAILYUPDATES STYLE - MAP - NO VIDEO (dailyupdates - with dives) -->
+<!--include virtual="/include1/superfoot-dayfolio-map.inc" | HEAD - PORTFOLIO - DAILYUPDATES STYLE - MAP - NO VIDEO (dailyupdates - with dives) -->
     <!-- CBP -->
     <link rel="stylesheet" href="/cubeportfolio/css/cubeportfolio_dailyupdates.css">
     <!-- Map -->

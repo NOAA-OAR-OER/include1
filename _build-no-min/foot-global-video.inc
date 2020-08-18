@@ -1,4 +1,4 @@
-<!-- FOOT - GLOBAL SCRIPTS - FOR JWPlayer -->
+<!--include virtual="/include1/foot-global-video.inc" | FOOT - GLOBAL SCRIPTS - FOR JWPlayer -->
     <!-- Bootstrap -->
     <script src="/js/bootstrap.js"></script>
     <script src="/js/bootstrap-hover-dropdown.js"></script>

@@ -1,4 +1,4 @@
-<!-- FOOT - PORTFOLIO - PHOTOLOG STYLE - VIDEO - NO MAP (photolog - jwplayer) -->
+<!--include virtual="/include1/superfoot-portfolio-video.inc" | FOOT - PORTFOLIO - PHOTOLOG STYLE - VIDEO - NO MAP (photolog - jwplayer) -->
     <!-- Global Scripts -->
     <!-- Bootstrap -->
     <script src="/js/bootstrap.js"></script>

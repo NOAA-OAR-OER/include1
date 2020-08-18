@@ -1,4 +1,4 @@
-<!-- HEAD - PORTFOLIO - DAILYUPDATES STYLE - NO MAP - NO VIDEO (dailyupdates) -->
+<!--include virtual="/include1/superhead-dayfolio.inc" | HEAD - PORTFOLIO - DAILYUPDATES STYLE - NO MAP - NO VIDEO (dailyupdates) -->
     <!-- CBP -->
     <link rel="stylesheet" href="/cubeportfolio/css/cubeportfolio_dailyupdates.css">
     <!-- Framework -->

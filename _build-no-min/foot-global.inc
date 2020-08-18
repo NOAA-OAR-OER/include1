@@ -1,4 +1,4 @@
-<!-- FOOT - GLOBAL SCRIPTS -->
+<!--include virtual="/include1/foot-global.inc" | FOOT - GLOBAL SCRIPTS -->
     <!-- jQuery -->
     <script src="/js/jquery.js"></script>
     <!-- Bootstrap -->

@@ -1,4 +1,4 @@
-<!-- FOOT - ACTIVMAP -->
+<!--include virtual="/include1/foot-activmap.inc" | FOOT - ACTIVMAP -->
     <!-- Map -->
     <script src="/js/jquery-activmap.js"></script>
     <script src="/js/markercluster.js"></script>

@@ -1,4 +1,4 @@
-<!-- HEAD - VIDEO - NO MAP - NO PORTFOLIO (general - videojs) -->
+<!--include virtual="/include1/superhead-videojs.inc" | HEAD - VIDEO - NO MAP - NO PORTFOLIO (general - videojs) -->
     <!-- VideoJS -->
     <link rel="stylesheet" href="/css/video-js.css"/>
     <link rel="stylesheet" href="/css/videojs-resolution-switcher.css"/>

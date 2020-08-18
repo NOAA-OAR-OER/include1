@@ -1,4 +1,4 @@
-<!-- HEAD - VIDEO - NO MAP - NO PORTFOLIO (general - jwplayer) -->
+<!--include virtual="/include1/superhead-video.inc" | HEAD - VIDEO - NO MAP - NO PORTFOLIO (general - jwplayer) -->
     <!-- jQuery -->
     <script src="/js/jquery.js"></script>
     <!-- JWPlayer -->

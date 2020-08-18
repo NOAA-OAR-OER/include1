@@ -1,4 +1,4 @@
-<!-- HEAD - PORTFOLIO - PHOTOLOG STYLE - VIDEO - NO MAP (photolog - jwplayer) -->
+<!--include virtual="/include1/superfoot-portfolio-video.inc" | HEAD - PORTFOLIO - PHOTOLOG STYLE - VIDEO - NO MAP (photolog - jwplayer) -->
     <!-- jQuery -->
     <script src="/js/jquery.js"></script>
     <!-- JWPlayer -->

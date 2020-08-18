@@ -1,4 +1,4 @@
-<!-- HEAD - GLOBAL STYLES -->
+<!--include virtual="/include1/head-global.inc" | HEAD - GLOBAL STYLES -->
     <!-- Framework -->
     <link rel="stylesheet" href="/css/bootstrap.css">
     <link rel="stylesheet" href="/css/responsive.css">

@@ -1,4 +1,4 @@
-<!-- HEAD - VIDEO - MAP - NO PORTFOLIO (welcome - videojs - with map) -->
+<!--include virtual="/include1/superhead-home.inc" | HEAD - VIDEO - MAP - NO PORTFOLIO (welcome - videojs - with map) -->
     <link rel="stylesheet" href="/css/video-js.css"/>
     <link rel="stylesheet" href="/css/videojs-resolution-switcher.css"/>
     <link rel="stylesheet" href="/css/videojs-oer.css"/>

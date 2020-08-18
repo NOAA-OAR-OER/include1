@@ -1,4 +1,4 @@
-<!-- FOOT - PORTFOLIO - VIDEO - NO MAP (photolog - videojs) -->
+<!--include virtual="/include1/superfoot-videojs.inc" | FOOT - PORTFOLIO - VIDEO - NO MAP (photolog - videojs) -->
     <!-- VideoJS -->
     <script src="/js/video.js"></script>
     <script src="/js/videojs-resolution-switcher.js"></script>

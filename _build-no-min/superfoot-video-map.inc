@@ -1,4 +1,4 @@
-<!-- FOOT - VIDEO - MAP - NO PORTFOLIO (welcome - jwplayer - with dives) -->  
+<!--include virtual="/include1/superfoot-video-map.inc" | FOOT - VIDEO - MAP - NO PORTFOLIO (welcome - jwplayer - with dives) -->  
     <!-- Global Scripts -->   
     <!-- jQuery -->
     <script src="/js/jquery.js"></script>

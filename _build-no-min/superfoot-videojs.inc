@@ -1,4 +1,4 @@
-    <!-- FOOT - VIDEO - NO MAP - NO PORTFOLIO (general - videojs) -->
+<!--include virtual="/include1/superfoot-videojs.inc" | FOOT - VIDEO - NO MAP - NO PORTFOLIO (general - videojs) -->
     <script src="/js/video.js"></script>
     <script src="/js/videojs-resolution-switcher.js"></script>
     <script src="/js/videojs-init.js"></script>

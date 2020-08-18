@@ -1,4 +1,4 @@
-<!-- FOOT - VIDEO - MAP - NO PORTFOLIO (homepage - videojs - with map and dailyimage) -->
+<!--include virtual="/include1/superfoot-home.inc" | FOOT - VIDEO - MAP - NO PORTFOLIO (homepage - videojs - with map and dailyimage) -->
     <!-- VideoJS -->
     <script src="/js/video.js"></script>
     <script src="/js/videojs-resolution-switcher.js"></script>
