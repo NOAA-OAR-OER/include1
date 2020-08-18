@@ -3,6 +3,7 @@
     <script src="/js/jquery.js"></script>
     <!-- JWPlayer -->
     <script src="/js/jwplayer.js"></script>
+    <script>jwplayer.key="Xn/dEFaxTQlMV6FC3sSXmvmPbX7BCdZdGOcUGey7Aos=";</script>
     <!-- Map -->
     <link rel="stylesheet" href="/css/jquery-activmap.css" />
     <!-- Framework -->
