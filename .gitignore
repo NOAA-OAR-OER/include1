@@ -1,5 +1,5 @@
 node_modules
-*.inc
-!**/*.inc
-*.js
-!**/*.js
+/*.inc
+!/_build*/*.inc
+/*.js
+!/_build*/*.js
