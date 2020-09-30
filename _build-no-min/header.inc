@@ -222,7 +222,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</li>
                         <li class="submenu-box">
 							<a href="/multimedia/daily-image/welcome.html" class="submenu-item">							
-								<span class="text">Image of the Day Gallery<small>Daily image archive</small></span>
+								<span class="text">Image of the Day Calendar<small>Daily image archive</small></span>
 							</a>
 						</li>						
                         <li class="submenu-box">
