@@ -6,6 +6,7 @@
     <script>jwplayer.key="Xn/dEFaxTQlMV6FC3sSXmvmPbX7BCdZdGOcUGey7Aos=";</script>
     <!-- Framework -->
     <link rel="stylesheet" href="/css/bootstrap.css">
+    <link rel="stylesheet" href="/css/style.css">
     <link rel="stylesheet" href="/css/responsive.css">
-    <link rel="stylesheet" href="/css/style.css"> 
+    <link rel="stylesheet" href="/css/nav.css"> 
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,700%7CRoboto+Slab:400,700" />
