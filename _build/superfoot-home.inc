@@ -1,5 +1,4 @@
-<!-- build:js(/Volumes/Chases/noaa/) superfoot-home.combined.min.js -->
-    <!-- FOOT - VIDEO - MAP - NO PORTFOLIO (homepage - videojs - with map and dailyimage) -->
+<!--include virtual="/include1/superfoot-home.inc" | FOOT - VIDEO - MAP - NO PORTFOLIO (homepage - videojs - with map and dailyimage) -->
     <!-- VideoJS -->
     <script src="/js/video.min.js"></script>
     <script src="/js/videojs-resolution-switcher.min.js"></script>
@@ -22,6 +21,5 @@
     <script src="/js/jquery-activmap-home.min.js"></script>
     <script src="/js/markercluster.min.js"></script>    
     <!-- DAILY IMAGE -->
-    <script src="/js/dailyimage-home.js"></script>
-    <!-- endbuild -->
+    <script src="/js/dailyimage-home.min.js"></script>
     <script src="https://maps.googleapis.com/maps/api/js?libraries=visualization&v=3&client=gme-noaa&channel=OAR.OER.APP.Test"></script>

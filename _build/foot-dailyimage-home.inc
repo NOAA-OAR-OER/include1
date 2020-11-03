@@ -1,4 +1,2 @@
-<!-- build:js(/Volumes/Chases/noaa/) foot-dailyimage.combined.min.js -->
-    <!-- DAILY IMAGE -->
-    <script src="/js/dailyimage-home.js"></script>
-    <!-- endbuild -->
+<!--include virtual="/include1/foot-dailyimage.inc" | DAILY IMAGE -->
+    <script src="/js/dailyimage-home.min.js"></script>
