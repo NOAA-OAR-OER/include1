@@ -3,7 +3,7 @@
     <!-- Global Scripts -->   
     <!-- jQuery -->
         <!-- <script src="/js/jquery/1.11.3/jquery.min.js"></script> -->
-    <script src="/js/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-latest.min.js"></script>
     <!-- Bootstrap -->
         <!-- <script src="/js/bootstrap/3.3.7/bootstrap.min.js"></script> -->
         <!-- <script src="/js/bootstrap/3.3.7/bootstrap-hover-dropdown.min.js"></script> -->

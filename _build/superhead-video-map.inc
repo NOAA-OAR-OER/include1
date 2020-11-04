@@ -1,6 +1,6 @@
 <!--include virtual="/include1/superhead-video-map.inc" | HEAD - VIDEO - MAP - NO PORTFOLIO (welcome - jwplayer - with dives) -->
     <!-- jQuery -->
-    <script src="/js/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-latest.min.js"></script>
     <!-- JWPlayer -->
     <script src="/js/jwplayer.min.js"></script>
     <script>jwplayer.key="Xn/dEFaxTQlMV6FC3sSXmvmPbX7BCdZdGOcUGey7Aos=";</script>

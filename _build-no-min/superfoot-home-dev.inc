@@ -5,7 +5,7 @@
     <script src="/js/videojs-init.js"></script>
     <!-- Global Scripts -->   
     <!-- jQuery -->
-    <script src="/js/jquery.js"></script>
+    <script src="https://code.jquery.com/jquery-latest.min.js"></script>
     <!-- Bootstrap -->
     <script src="/js/bootstrap.js"></script>
     <script src="/js/bootstrap-hover-dropdown.js"></script>

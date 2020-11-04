@@ -1,6 +1,6 @@
 <!--include virtual="/include1/superfoot-portfolio-video.inc" | HEAD - PORTFOLIO - PHOTOLOG STYLE - VIDEO - NO MAP (photolog - jwplayer) -->
     <!-- jQuery -->
-    <script src="/js/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-latest.min.js"></script>
     <!-- JWPlayer -->
     <script src="/js/jwplayer.min.js"></script> 
     <script>jwplayer.key="Xn/dEFaxTQlMV6FC3sSXmvmPbX7BCdZdGOcUGey7Aos=";</script>

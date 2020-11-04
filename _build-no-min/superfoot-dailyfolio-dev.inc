@@ -1,7 +1,7 @@
 <!--include virtual="/include1/superfoot-dayfolio.inc" | FOOT - PORTFOLIO - DAILYUPDATES STYLE - NO MAP - NO VIDEO (dailyupdates without dives) -->
     <!-- Global Scripts -->
     <!-- jQuery -->
-    <script src="/js/jquery.js"></script>
+    <script src="https://code.jquery.com/jquery-latest.min.js"></script>
     <!-- Bootstrap -->
     <script src="/js/bootstrap.js"></script>
     <script src="/js/bootstrap-hover-dropdown.js"></script>

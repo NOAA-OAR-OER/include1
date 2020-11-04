@@ -1,6 +1,6 @@
 <!--include virtual="/include1/foot-global.inc" | FOOT - GLOBAL SCRIPTS -->
     <!-- jQuery -->
-    <script src="/js/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-latest.min.js"></script>
     <!-- Bootstrap -->
     <script src="/js/bootstrap-5.0.0/js/bootstrap.min.js"></script>
     <script src="/js/bootstrap-hover-dropdown.min.js"></script>
