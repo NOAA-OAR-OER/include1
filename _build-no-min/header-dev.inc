@@ -236,11 +236,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								<span class="text">Webinars<small>Archived webinars</small></span>
 							</a>
 						</li>
-                        <li class="submenu-box">
+                        <!--<li class="submenu-box">
 							<a href="/multimedia/social-media/welcome.html" class="submenu-item">								
 								<span class="text">Social Media<small>Video Shorts</small></span>
 							</a>
-						</li>						
+						</li>-->						
 					</ul><!--.submenu-->
 				</li>
 
