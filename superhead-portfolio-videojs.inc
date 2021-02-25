@@ -1,0 +1,12 @@
+<!--include virtual="/include1/superfoot-portfolio-videojs.inc" | HEAD - PORTFOLIO - VIDEO - NO MAP (photolog - videojs) -->
+    <!-- VideoJS -->
+    <link rel="stylesheet" href="/css/video-js.min.css"/>
+    <link rel="stylesheet" href="/css/videojs-resolution-switcher.min.css"/>
+    <link rel="stylesheet" href="/css/videojs-oer.min.css"/>
+    <!-- CBP -->
+    <link rel="stylesheet" href="/cubeportfolio/css/cubeportfolio.4.4.0.min.css">
+    <!-- Framework -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/style.min.css">
+    <link rel="stylesheet" href="/css/responsive.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,700%7CRoboto+Slab:400,700" />
