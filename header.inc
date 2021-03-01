@@ -61,7 +61,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							</a>
 						</li>
 						<li class="submenu-box">
-							<a href="https://oeab.noaa.gov/" target="_blank" class="submenu-item">
+							<a href="https://oeab.noaa.gov/" class="submenu-item">
 								<span class="text">OEAB<small>Ocean Exploration Advisory Board</small></span>
 							</a>
 						</li>
@@ -146,7 +146,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							</a>
 						</li>
 						<li class="submenu-box">
-							<a href="https://docs.google.com/forms/d/e/1FAIpQLSdBLvbtStVhGrDO3Ugn_sNJpgR1Yy-e-DaUU3TIqGjg07lTNg/viewform?formkey=dHAycC1MYndJb0hTdGRaYXAzVTVBdWc6MA&fromEmail=true" target="_blank" class="submenu-item">
+							<a href="https://docs.google.com/forms/d/e/1FAIpQLSdBLvbtStVhGrDO3Ugn_sNJpgR1Yy-e-DaUU3TIqGjg07lTNg/viewform?formkey=dHAycC1MYndJb0hTdGRaYXAzVTVBdWc6MA&fromEmail=true" class="submenu-item">
 								<span class="text">Data Request Form<small>Request specific data</small></span>
 							</a>
 						</li>
