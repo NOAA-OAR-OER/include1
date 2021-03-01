@@ -47,7 +47,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<ul class="dropdown-menu submenu">
 						<li class="submenu-box">
 							<a href="/about/what-we-do/welcome.html" class="submenu-item">
-								<span class="text">What We Do<small>Activities, functions, &amp; capabilities </small></span>
+								<span class="text">Our Mission<small>Activities, functions, &amp; capabilities </small></span>
 							</a>
 						</li>
 						<li class="submenu-box">
