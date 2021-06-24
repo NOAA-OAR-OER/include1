@@ -1,4 +1,4 @@
-<!--include virtual="/include1/superfoot-dayfolio-map.inc" | FOOT - PORTFOLIO - DAILYUPDATES STYLE - MAP - NO VIDEO (dailyupdates with dives) -->
+<!--include virtual="/include1/superfoot-dayfolio-map.inc" | FOOT - PORTFOLIO - DAILYUPDATES STYLE - MAP - NO VIDEO (dailyupdates with dives) CBP ARGS -->
     <!-- Global Scripts -->
     <!-- jQuery -->
     <script src="https://code.jquery.com/jquery-latest.min.js"></script>
@@ -15,9 +15,8 @@
     <script src="/js/google.analytics.js"></script>
     <!-- CBP -->  
      <script src="/cubeportfolio/js/jquery.cubeportfolio.js"></script>
-     <script src="/js/cbp-init.js"></script>
+     <script src="/js/cbp-init-args.js"></script>
     <!-- MAP -->
     <script src="/js/jquery-activmap.js"></script>
     <script src="/js/markercluster.js"></script>
     <script src="https://maps.googleapis.com/maps/api/js?libraries=visualization&v=3&client=gme-noaa&channel=OAR.OER.APP.Test"></script>
-    <script src="include/places.js"></script>

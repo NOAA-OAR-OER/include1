@@ -1,5 +1,5 @@
-<!-- build:js(/Volumes/Chases/noaa/) superfoot-dailyfolio-map.combined.min.js -->
-    <!-- FOOT - PORTFOLIO - DAILYUPDATES STYLE - MAP - NO VIDEO (dailyupdates with dives) -->
+<!-- build:js(/Volumes/Chases/noaa/) superfoot-dailyfolio-map.min.js -->
+    <!-- FOOT - PORTFOLIO - DAILYUPDATES STYLE - MAP - NO VIDEO (dailyupdates with dives) CBP ARGS -->
     <!-- Global Scripts -->
     <!-- jQuery -->
         <!-- <script src="/js/jquery/1.11.3/jquery.min.js"></script> -->
@@ -26,7 +26,7 @@
           <!-- <script src="/js/cubeportfolio/4.4.0/jquery.cubeportfolio.min.js"></script> -->
           <!-- <script src="/js/cubeportfolio/4.4.0/cbp-init.min.js"></script> -->
      <script src="/cubeportfolio/js/jquery.cubeportfolio.min.js"></script>
-     <script src="/js/cbp-init.min.js"></script>
+     <script src="/js/cbp-init-args.min.js"></script>
     <!-- MAP -->
         <!-- <script src="/js/jquery-activmap/1.7.1/jquery-activmap.min.js"></script> -->
         <!-- <script src="/js/jquery-activmap/1.7.1/markercluster.min.js"></script> -->

@@ -1,5 +1,5 @@
 <!-- build:js(/Volumes/Chases/noaa/) superfoot-portfolio-videojs.combined.min.js -->
-    <!-- FOOT - PORTFOLIO - VIDEO - NO MAP (photolog - videojs) -->
+    <!-- FOOT - PORTFOLIO - VIDEO - NO MAP (photolog - videojs) CBP ARGS -->
     <!-- VideoJS -->
         <!-- <script src="/js/video-js/7.6.6/video.min.js"></script> --> 
         <!-- <script src="/js/video-js/7.6.6/videojs-resolution-switcher.min.js"></script> --> 
@@ -33,5 +33,5 @@
         <!-- <script src="/js/cubeportfolio/4.4.0/jquery.cubeportfolio.min.js"></script> -->
         <!-- <script src="/js/cubeportfolio/4.4.0/cbp-init-vjs.min.js"></script> -->
     <script src="/cubeportfolio/js/jquery.cubeportfolio.4.4.0.min.js"></script>
-    <script src="/js/cbp-init-vjs.min.js"></script>
+    <script src="/js/cbp-init-args.min.js"></script>
     <!-- endbuild -->

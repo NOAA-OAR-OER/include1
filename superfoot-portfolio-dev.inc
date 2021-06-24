@@ -1,4 +1,4 @@
-<!--include virtual="/include1/superfoot-portfolio-dev.inc" | FOOT - PORTFOLIO - NORMAL STYLE - NO MAP - NO VIDEO -->
+<!--include virtual="/include1/superfoot-portfolio-dev.inc" | FOOT - PORTFOLIO - NORMAL STYLE - NO MAP - NO VIDEO - NO CBP ARGS -->
     <!-- Global Scripts -->
     <!-- jQuery -->
     <script src="https://code.jquery.com/jquery-latest.min.js"></script>
