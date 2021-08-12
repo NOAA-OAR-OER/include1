@@ -1,2 +1,2 @@
-<!--include virtual="/include1/foot-dailyimage.inc" | DAILY IMAGE -->
-    <script src="/js/dailyimage-home.js"></script>
+<!--include virtual="/include1/foot-dailyimage-home-dev.inc" | DAILY IMAGE -->
+<script src="/js/dailyimage-home.js"></script>

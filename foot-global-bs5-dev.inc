@@ -1,4 +1,4 @@
-<!--include virtual="/include1/foot-global.inc" | FOOT - GLOBAL SCRIPTS -->
+<!--include virtual="/include1/foot-global-bs5-dev.inc" | FOOT - GLOBAL SCRIPTS (Bootstrap 5) -->
     <!-- jQuery -->
     <script src="https://code.jquery.com/jquery-latest.min.js"></script>
     <!-- Bootstrap -->

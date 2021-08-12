@@ -1,4 +1,4 @@
-<!--include virtual="/include1/head-global.inc" | HEAD - GLOBAL STYLES -->
+<!--include virtual="/include1/head-global-bs5.inc" | HEAD - GLOBAL STYLES (Bootstrap 5) -->
     <!-- Framework -->
     <link rel="stylesheet" href="/css/bootstrap-5.0.0/css/bootstrap.css">
     <link rel="stylesheet" href="/css/style.css">
