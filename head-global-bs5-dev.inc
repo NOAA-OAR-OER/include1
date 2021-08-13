@@ -5,3 +5,4 @@
     <link rel="stylesheet" href="/css/responsive.css">
     <!-- font -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,700%7CRoboto+Slab:400,700" />
+    <!--end include-->
