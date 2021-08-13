@@ -1,5 +1,4 @@
 <!--include virtual="/include1/superfoot-portfolio.inc" | FOOT - PORTFOLIO - NORMAL STYLE - NO MAP - NO VIDEO -->
-<!-- Global Scripts -->
     <!-- jQuery -->
     <script src="https://code.jquery.com/jquery-latest.min.js"></script>
     <!-- Bootstrap -->
