@@ -7,7 +7,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-12 col-md-3 header-left">
-				<a href="/welcome.html" class="logo"><img src="/images/oer_logo.png" alt="NOAA Office of Ocean Exploration and Research"></a>
+				<a href="/welcome.html" class="logo"><img src="/images/oe-emblem-20.png" alt="NOAA Ocean Exploration"></a>
 			</div>
 			<div class="col-sm-12 col-md-9 header-right">
                 <form accept-charset="UTF-8" action="https://search.usa.gov/search" id="search_form" method="get">
@@ -43,7 +43,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 				<li class="menu-item "><a href="/welcome.html">Home</a></li>
 
-				<li class="menu-item dropdown"><a class="dropdown-toggle" data-hover="dropdown" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="/about/welcome.html">About OER&nbsp;<i class="glyphicon glyphicon-triangle-bottom"></i></a>
+				<li class="menu-item dropdown"><a class="dropdown-toggle" data-hover="dropdown" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="/about/welcome.html">About&nbsp;<i class="glyphicon glyphicon-triangle-bottom"></i></a>
 					<ul class="dropdown-menu submenu">
 						<li class="submenu-box">
 							<a href="/about/what-we-do/welcome.html" class="submenu-item">
@@ -72,7 +72,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</li>
 						<li class="submenu-box">
 							<a href="/about/funding-opps/welcome.html" class="submenu-item">
-								<span class="text">Funding Opportunities<small>OER call for proposals</small></span>
+								<span class="text">Funding Opportunities<small>Call for proposals</small></span>
 							</a>
 						</li>
 						<li class="submenu-box">
@@ -112,7 +112,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</li>
 						<li class="submenu-box">
 							<a href="/technology/development-partnerships/development-partnerships.html" class="submenu-item ">
-								<span class="text">Technology Development <small>OER technology projects</small></span>
+								<span class="text">Technology Development <small>Technology projects</small></span>
 							</a>
 						</li>
 						<li class="submenu-box">
@@ -142,7 +142,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</li>
 						<li class="submenu-box">
 							<a href="/data/publications/welcome.html" class="submenu-item">
-								<span class="text">Publications &amp; Reports<small>OER-related publications &amp; documents</small></span>
+								<span class="text">Publications &amp; Reports<small>Related publications &amp; documents</small></span>
 							</a>
 						</li>
 						<li class="submenu-box">
@@ -167,8 +167,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							</a>
 						</li>
 						<li class="submenu-box">
-							<a href="/edu/lessonplans/lessonplans.html" class="submenu-item">
-								<span class="text">Lessons<small>Hands-on &amp; standards-based lesson plans</small></span>
+							<a href="/edu/doep/welcome.html" class="submenu-item">	
+								<span class="text">Deep Ocean Education Project<small>Shared ocean exploration education resources</small></span>
 							</a>
 						</li>
 						<li class="submenu-box">
@@ -253,7 +253,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</li>
 						<li class="submenu-box">
 							<a href="/news/oer-updates/" class="submenu-item ">
-								<span class="text">OER Updates <small>Office announcements &amp; accomplishments</small></span>
+								<span class="text">NOAA Ocean Exploration Updates <small>Office announcements &amp; accomplishments</small></span>
 							</a>
 						</li>
 						<li class="submenu-box">

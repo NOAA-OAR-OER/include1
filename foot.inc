@@ -17,7 +17,7 @@
                 <div class="col-xs-12 col-md-3">
                 </div>
                 <div class="col-xs-12 col-md-3">
-                    <a href="/welcome.html"><img src="/images/oer_logo_white.png" alt="NOAA Office of Ocean Exploration and Research" class="img-responsive footer-emblem"></a>
+                    <a href="/welcome.html"><img src="/images/oe-emblem-20-white.png" alt="NOAA Ocean Exploration" class="img-responsive footer-emblem"></a>
                     <div class="social-links">
                         <a href="https://www.facebook.com/OceanExplorationResearch" class="social-fb" target="_blank"><img src="/images/social/facebook.svg" alt="Facebook" /></a>
                         <a href="https://twitter.com/oceanexplorer" class="social-tw" target="_blank"><img src="/images/social/twitter.svg" alt="Twitter" /></a> <a href="https://www.instagram.com/noaaoceanexploration/" class="social-ig" target="_blank"><img src="/images/social/instagram.svg" alt="Instagram" /></a>
@@ -34,7 +34,7 @@
                         <a href="https://www.commerce.gov/"><img src="/images/doc_logo.png" alt="U.S. Department of Commerce"></a>
                     </div>
                     <div class="footer-text">
-                        <p class="footer-links"> <a href="/welcome.html">Office of Ocean Exploration and Research</a><br />
+                        <p class="footer-links"> <a href="/welcome.html">NOAA Ocean Exploration</a><br />
                         <a href="http://www.noaa.gov/">National Oceanic and Atmospheric Administration</a><br />
                         <a href="https://www.commerce.gov/">U.S. Department of Commerce</a></p>
                     </div>
