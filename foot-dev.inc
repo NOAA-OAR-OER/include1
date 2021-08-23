@@ -34,7 +34,7 @@
                         <a href="https://www.commerce.gov/"><img src="/images/doc_logo.png" alt="U.S. Department of Commerce"></a>
                     </div>
                     <div class="footer-text">
-                        <p class="footer-links"> <a href="/welcome.html">NOAA Ocean Exploration</a><br />
+                        <p class="footer-links"> <a href="/welcome.html">Office of Ocean Exploration and Research</a><br />
                         <a href="http://www.noaa.gov/">National Oceanic and Atmospheric Administration</a><br />
                         <a href="https://www.commerce.gov/">U.S. Department of Commerce</a></p>
                     </div>
